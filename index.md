@@ -30,5 +30,5 @@ My GitHub page is http://github.com/AlexisCSU.
     but I figured it out.
 
 
-
+### This is a gradient image from Lab 10
 ![The gradient image from Lab 10](images/sample_image.png)
