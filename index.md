@@ -10,7 +10,7 @@ My GitHub page is http://github.com/AlexisCSU.
 
 * Lab 4
 
-    Lab 4 is one of my fvorites! I liked having to learn how to use different data
+    Lab 4 is one of my favorites! I liked having to learn how to use different data
     types and have them convert into different measures. Coverting Inches 
     into Feet was fun! The conversion between two dates is cool too.
 
