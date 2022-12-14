@@ -29,4 +29,4 @@ My GitHub page is http://github.com/AlexisCSU.
     to input 5 numbers and get rid of the highest and lowest ones was hard,
     but I figured it out.
 
-![The gradient image from Lab 10](images/gradient.png)
+![The gradient image from Lab 10](images/sample_image.png)
