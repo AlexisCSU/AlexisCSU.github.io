@@ -28,3 +28,5 @@ My GitHub page is http://github.com/AlexisCSU.
     making a program to separate incorrect selling. In part-1 where I had 
     to input 5 numbers and get rid of the highest and lowest ones was hard,
     but I figured it out.
+
+![The gradient image from Lab 10](images/gradient.png)
