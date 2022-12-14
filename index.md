@@ -31,5 +31,4 @@ My GitHub page is http://github.com/AlexisCSU.
 
 
 
-#### The gradient image from Lab 10 
-(images/sample_image.png)
+![The gradient image from Lab 10](images/sample_image.png)
